@@ -1,0 +1,22 @@
+﻿  Snake.cpp
+C:\Users\Willy ZHENG\Desktop\Projets\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Snake.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\Willy ZHENG\Desktop\Projets\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+C:\Users\Willy ZHENG\Desktop\Projets\Snake\Snake\Snake.cpp(96,18): warning C4305: '-=' : troncation de 'double' à 'float'
+  main.cpp
+C:\Users\Willy ZHENG\Desktop\Projets\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\Willy ZHENG\Desktop\Projets\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 439 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Snake.vcxproj -> C:\Users\Willy ZHENG\Desktop\Projets\Snake\x64\Release\Snake.exe
