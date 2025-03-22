@@ -1,26 +1,39 @@
 # 🐍 Snake in C++ with SFML  
 
-A **Snake** game built with **C++** and **SFML 3** 🎮. Eat apples 🍏 and beat your high score!  
+A simple **Snake** game built with **C++** and **SFML 3** 🎮.  
+Eat apples 🍏, avoid yourself, and beat your high score!
 
-## 🚀 Installation & Run  
+---
 
-1. **Install SFML** → [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)  
-2. **Compile with CMake**:  
-   ```bash
-   mkdir build && cd build
-   cmake ..
-   cmake --build .
-   ./SnakeGame
-   ```
-   **Or using g++**:  
-   ```bash
-   g++ -std=c++20 -o SnakeGame src/*.cpp -Iinclude -lsfml-graphics -lsfml-window -lsfml-system
-   ./SnakeGame
-   ```
+## 🚀 Installation & Running  
+
+### 🧰 Requirements
+- **SFML 3**: Download from [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)
+- A **C++ IDE** like Visual Studio, CLion, or Code::Blocks
+
+### 🔧 Setup Steps
+1. **Download or clone** the project
+2. **Open the project** in your IDE
+3. **`include` and `lib` folders are already configured**
+4. **SFML libraries are already linked**
+5. Build and run the game 🎯
+
+> 💡 No need for CMake if you're using an IDE.
+
+---
 
 ## 🎮 Controls  
 - **Arrow keys** → Move  
 
-## 📌 Possible Improvements  
-🔊 Sound | 🎨 Better Graphics | 🎖 Score Saving | 🎮 Multiplayer  
+---
 
+## 📌 Possible Improvements  
+- 🔊 Add sound effects  
+- 🎨 Improved graphics  
+- 🖊 Score saving  
+- 🎮 Multiplayer support  
+- 🐛 Minor visual glitches may occur with some sprites
+
+---
+
+Have fun, and feel free to contribute if you want to make it better! 🚀✨
