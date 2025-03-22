@@ -1,1 +1,76 @@
-﻿  Snake.vcxproj -> C:\Users\Willy ZHENG\Desktop\Projets\Snake\x64\Debug\Snake.exe
+﻿  Apple.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Apple.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+C:\Users\willy\Desktop\Snake\Snake\Apple.cpp(7,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\willy\Desktop\Snake\Snake\Apple.cpp(13,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\willy\Desktop\Snake\Snake\Apple.cpp(14,57): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\willy\Desktop\Snake\Snake\Apple.cpp(38,15): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\willy\Desktop\Snake\Snake\Apple.cpp(39,14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Game.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+C:\Users\willy\Desktop\Snake\Snake\Game.cpp(136,24): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\willy\Desktop\Snake\Snake\Game.cpp(137,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Input.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Input.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+  main.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+  Menu.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Menu.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,24): warning C4305: 'argument' : troncation de 'double' à 'T'
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,24): warning C4305:         with
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,24): warning C4305:         [
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,24): warning C4305:             T=float
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,24): warning C4305:         ]
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,20): warning C4305: 'argument' : troncation de 'double' à 'T'
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,20): warning C4305:         with
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,20): warning C4305:         [
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,20): warning C4305:             T=float
+C:\Users\willy\Desktop\Snake\Snake\Menu.cpp(14,20): warning C4305:         ]
+  Snake.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'Snake.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+C:\Users\willy\Desktop\Snake\Snake\Snake.cpp(96,18): warning C4305: '-=' : troncation de 'double' à 'float'
+  TextFont.cpp
+C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,47): warning C4275: interface non dll class 'std::runtime_error' utilisée comme base d'une interface dll class 'sf::Exception'
+  (compiler le fichier source 'TextFont.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      voir la déclaration de 'std::runtime_error'
+      C:\Users\willy\Desktop\Snake\include\SFML\System\Exception.hpp(41,23):
+      voir la déclaration de 'sf::Exception'
+  
+  Génération de code en cours...
+  Snake.vcxproj -> C:\Users\willy\Desktop\Snake\x64\Debug\Snake.exe
