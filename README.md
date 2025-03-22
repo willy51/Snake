@@ -24,7 +24,7 @@ Eat apples 🍏, avoid yourself, and beat your high score!
 
 ## 🎮 Controls  
 - **Arrow keys** → Move  
-
+- **Enter or Space** → Select option  
 ---
 
 ## 📌 Possible Improvements  
